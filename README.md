@@ -22,7 +22,8 @@ Avant de partir dans du code sans réfléchir, nous allons penser et conceptuali
 ![Opera Instantané_2020-09-21_144835_cours sayna io](https://user-images.githubusercontent.com/68474669/93763459-01961000-fc01-11ea-93e2-fc8d93ed0c32.png)
 
 
-**Instructions**
+**Instructions:**
+
  Pour lancer le programme il faut suivre les instructions suivantes:
 
  1. Installer les gems avec en lançant  `bundle install`  dans la racine du répertoire via terminal.
